@@ -9,7 +9,7 @@
 
 - [ x ] Upload de Arquivos
 - [ x ] Caching
-- [ ] l18n
+- [ x ] l18n
 - [ ] Testes
 - [ ] Segurança
 
