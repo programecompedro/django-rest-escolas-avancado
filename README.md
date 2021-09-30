@@ -7,7 +7,7 @@
 
 ### Features
 
-- [ ] Upload de Arquivos
+- [ x ] Upload de Arquivos
 - [ ] Caching
 - [ ] l18n
 - [ ] Testes
