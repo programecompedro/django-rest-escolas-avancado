@@ -10,8 +10,8 @@
 - [ x ] Upload de Arquivos
 - [ x ] Caching
 - [ x ] l18n
-- [ ] Testes
-- [ ] Segurança
+- [ x ] Testes
+- [ x ] Segurança
 
 MIT License
 
