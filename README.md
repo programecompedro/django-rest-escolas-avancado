@@ -8,7 +8,7 @@
 ### Features
 
 - [ x ] Upload de Arquivos
-- [ ] Caching
+- [ x ] Caching
 - [ ] l18n
 - [ ] Testes
 - [ ] Segurança
